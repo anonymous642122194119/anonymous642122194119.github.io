@@ -12,7 +12,7 @@ For generated attacks, we categorized all synthesized logs and observed that the
 
 <iframe src="https://docs.google.com/document/d/1ZJUbYXOeugnbNXLKySY8MfXz1xEWZ2cgxSRRc9u0-MI/preview" width="100%" height="600" frameborder="0"></iframe>
 
-[📄 View Full Document](https://docs.google.com/document/d/1ZJUbYXOeugnbNXLKySY8MfXz1xEWZ2cgxSRRc9u0-MI/edit?tab=t.0)
+[View Full Document](https://docs.google.com/document/d/1ZJUbYXOeugnbNXLKySY8MfXz1xEWZ2cgxSRRc9u0-MI/edit?tab=t.0)
 
 ---
 
@@ -20,7 +20,7 @@ For generated attacks, we categorized all synthesized logs and observed that the
 
 For generated constraints, we added assessment for interpretability using an LLM-based 1 to 5 scoring. The distribution is highly skewed toward the top score: **77.8% of invariants received a score of 5**, and only a very small portion scored below 3.
 
-![Distribution Ratio of Attack Categories](../picture/generimage.png)
+![Distribution Ratio of Attack Categories](/picture/generimage.png)
 
 ---
 
@@ -28,13 +28,13 @@ For generated constraints, we added assessment for interpretability using an LLM
 
 <iframe src="https://drive.google.com/file/d/1COGj0yyslukPXoMrxZVBkL-Nk2C_vO4v/preview" width="100%" height="600" frameborder="0"></iframe>
 
-[📄 View Full Document](https://drive.google.com/file/d/1COGj0yyslukPXoMrxZVBkL-Nk2C_vO4v/view)
+[View Full Document](https://drive.google.com/file/d/1COGj0yyslukPXoMrxZVBkL-Nk2C_vO4v/view)
 
 ---
 
 ## Distribution of Interpretability Scores of Generated Constraints
 
-![Distribution of Interpretability Scores](../picture/generimage2.png)
+![Distribution of Interpretability Scores](/picture/generimage2.png)
 
 We also inspected low scoring cases and found that they typically involve mixing unrelated fields in a single constraint, making the violation reason less clear.
 
@@ -44,7 +44,7 @@ We also inspected low scoring cases and found that they typically involve mixing
 
 <iframe src="https://drive.google.com/file/d/1MSfm6o02XfIqBFPOD43VRt3gBftwyX1M/preview" width="100%" height="600" frameborder="0"></iframe>
 
-[📄 View Full Document](https://drive.google.com/file/d/1MSfm6o02XfIqBFPOD43VRt3gBftwyX1M/view)
+[View Full Document](https://drive.google.com/file/d/1MSfm6o02XfIqBFPOD43VRt3gBftwyX1M/view)
 
 ---
 
@@ -52,18 +52,5 @@ We also inspected low scoring cases and found that they typically involve mixing
 
 <iframe src="https://drive.google.com/file/d/1MSfm6o02XfIqBFPOD43VRt3gBftwyX1M/view" width="100%" height="600" frameborder="0"></iframe>
 
-[📄 View Full Document](https://drive.google.com/file/d/1MSfm6o02XfIqBFPOD43VRt3gBftwyX1M/view)
+[View Full Document](https://drive.google.com/file/d/1MSfm6o02XfIqBFPOD43VRt3gBftwyX1M/view)
 
----
-
-## 🔗 Related Pages
-
-- [🏠 Home](index.md)
-- [🧪 Experiment Details](experiment-details.md)
-- [💾 Source Code and Dataset](source-code-and-dataset.md)
-- [💡 Motivating Example](motivating-example.md)
-- [📋 Detailed Prompts](detailed-prompts.md)
-
----
-
-*For complete attack examples and constraint specifications, please refer to our dataset repository.*

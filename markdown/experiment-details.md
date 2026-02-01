@@ -23,18 +23,3 @@ We provide a comparison between **WebNorm** and **AgenticNorm** in efficiency. A
 ## 💡 Design Philosophy
 
 Importantly, our **lightweight design** refers to **reduced dependencies** (no source code, no proprietary LLMs, no long-context prompts, no high reasoning requirements), **not** reduced computation time. Even with slightly higher verification cost, AgenticNorm becomes easy to deploy locally, privacy-preserving, and independent of heavy external infrastructure.
-
----
-
-
-## 🔗 Related Pages
-
-- [🏠 Home](index.md)
-- [⚔️ Generated Attacks and Constraints](generated-attacks-and-constraints.md)
-- [💾 Source Code and Dataset](source-code-and-dataset.md)
-- [💡 Motivating Example](motivating-example.md)
-- [📋 Detailed Prompts](detailed-prompts.md)
-
----
-
-*For more details about the experimental methodology and complete results, please refer to our paper.*
