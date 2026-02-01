@@ -12,11 +12,11 @@ The motivating example is too long to be included here, so we provide it in the 
 
 For Field Clustering, all fields in this log entity pair are clustered into the following clusters (the first cluster contains the field we focus on):
 
-![Field Clustering](/picture/moti1.png)
+![Field Clustering](moti1.png)
 
 ---
 
 For Constraints Generation, AgenticNorm generate the following Python code for the first cluster:
 
-![Constraints Generation Code](/picture/moti2.png)
+![Constraints Generation Code](moti2.png)
 

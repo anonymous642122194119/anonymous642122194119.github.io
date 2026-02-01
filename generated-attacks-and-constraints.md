@@ -20,7 +20,7 @@ For generated attacks, we categorized all synthesized logs and observed that the
 
 For generated constraints, we added assessment for interpretability using an LLM-based 1 to 5 scoring. The distribution is highly skewed toward the top score: **77.8% of invariants received a score of 5**, and only a very small portion scored below 3.
 
-![Distribution Ratio of Attack Categories](/picture/generimage.png)
+![Distribution Ratio of Attack Categories](generimage.png)
 
 ---
 
@@ -34,7 +34,7 @@ For generated constraints, we added assessment for interpretability using an LLM
 
 ## Distribution of Interpretability Scores of Generated Constraints
 
-![Distribution of Interpretability Scores](/picture/generimage2.png)
+![Distribution of Interpretability Scores](generimage2.png)
 
 We also inspected low scoring cases and found that they typically involve mixing unrelated fields in a single constraint, making the violation reason less clear.
 

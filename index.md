@@ -1,14 +1,10 @@
-# AgenticNorm
-
----
-
 ## AgenticNorm: Multi-Agent Lightweight Anomaly Detection for Web Applications
 
 ---
 
 ### System Architecture
 
-![System Architecture Diagram](/homeimage.png)
+![System Architecture Diagram](homeimage.png)
 
 ---
 
@@ -17,24 +13,24 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="#/markdown/source-code-and-dataset">
+      <a href="#source-code-and-dataset">
         <h3>Source Code and Dataset</h3>
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="#/markdown/detailed-prompts">
+      <a href="#detailed-prompts">
         <h3>Detailed Prompts</h3>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="#/markdown/motivating-example">
+      <a href="#motivating-example">
         <h3>Motivating Example</h3>
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="#/markdown/experiment-details">
+      <a href="#experiment-details">
         <h3>Experimental Results</h3>
       </a>
     </td>
